@@ -31,6 +31,10 @@ public class App {
 
 //
 
+// initialiser nbLancer à 0
+// initialiser numeroCase à 0
+// initialiser casesRestantes
+
 // if (numeroCase == 20) {
 // System.out.println("Lancer " + nbLancer + " : vous avez fait " + lancer + ".
 // Vous êtes sur la case "
